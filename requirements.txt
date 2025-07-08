@@ -1,3 +1,4 @@
 tensorflow-cpu
 streamlit
 pillow
+python-3.10
